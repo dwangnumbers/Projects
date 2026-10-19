@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# simulation and analysis outputs
+*.csv
+*.png
+*.json
